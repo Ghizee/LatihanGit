@@ -1,0 +1,7 @@
+RANCANGAN PERKEMBANGAN PROYEK DI MASA MENDATANG
+
+Rancangan Pengembangan Proyek :
+
+1. Sebagai modul pembelajaran coding
+2. Mengembangkan modul pembelajaran interaktif yang mencakup HTML, CSS, dan JavaScript, dengan latihan praktis langsung di browser
+3.Mengintegrasikan sistem feedback otomatis pada platform pembelajaran, yang dapat memberikan penilaian dan saran perbaikan pada kode yang saya pakai
